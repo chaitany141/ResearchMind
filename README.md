@@ -2,6 +2,8 @@
 
 ResearchMind is an advanced Multi-Agent AI System built with Streamlit and LangChain. It uses a team of specialized AI agents working together to search the web, extract content, and write detailed, well-structured research reports on any given topic.
 
+Demo : https://researchmind-multi-ai-agent.streamlit.app/
+
 ## Features ✨
 
 - **Multi-Agent Pipeline**: Utilizes four distinct steps (Search, Reader, Writer, Critic) for high-quality outputs.
